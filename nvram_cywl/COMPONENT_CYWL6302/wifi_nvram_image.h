@@ -19,7 +19,7 @@
 
 #include <string.h>
 #include <stdint.h>
-#include "../../generated_mac_address.txt"
+#include "generated_mac_address.txt"
 
 /*
  * CYW43012 Rev C0 SSBU
